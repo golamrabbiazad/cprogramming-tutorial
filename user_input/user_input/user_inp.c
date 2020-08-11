@@ -2,7 +2,6 @@
 //  user_inp.c
 //  user_input
 
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
